@@ -1325,49 +1325,31 @@
   ],
   "bookmarks": [
     {
-      "cityName": "Abalessa",
-      "country": "Algeria",
-      "countryCode": "DZ",
-      "latitude": "23.18455079512732",
-      "longitude": "3.795523257510883",
-      "host_location": "Abalessa Algeria",
-      "id": 1
-    },
-    {
-      "cityName": "Mahidasht",
-      "country": "Iran (Islamic Republic of)",
-      "countryCode": "IR",
-      "latitude": "34.32869425037187",
-      "longitude": "46.724183117022086",
-      "host_location": "Mahidasht Iran (Islamic Republic of)",
+      "cityName": "Castlecomer",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "latitude": "52.65334849986497",
+      "longitude": "-7.338845959328221",
+      "host_location": "CastlecomerIreland",
       "id": 4
     },
     {
-      "cityName": "Sanandaj",
-      "country": "Iran (Islamic Republic of)",
-      "countryCode": "IR",
-      "latitude": "35.31372444726279",
-      "longitude": "47.03114358752335",
-      "host_location": "Sanandaj Iran (Islamic Republic of)",
+      "cityName": "Wissous",
+      "country": "France",
+      "countryCode": "FR",
+      "latitude": "48.73189052241783",
+      "longitude": "2.34005561217201",
+      "host_location": "WissousFrance",
       "id": 5
     },
     {
-      "cityName": "A Dakhla Oasis",
-      "country": "Egypt",
-      "countryCode": "EG",
-      "latitude": "25.02090651422749",
-      "longitude": "29.09059588509316",
-      "host_location": "A Dakhla Oasis Egypt",
-      "id": 7
-    },
-    {
-      "cityName": "Baba Kot",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "latitude": "28.43528783183169",
-      "longitude": "67.78003711374224",
-      "host_location": "Baba Kot Pakistan",
-      "id": 8
+      "cityName": "Harrogate",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "countryCode": "GB",
+      "latitude": "53.939086812304026",
+      "longitude": "-1.445217798220573",
+      "host_location": "HarrogateUnited Kingdom of Great Britain and Northern Ireland (the)",
+      "id": 6
     }
   ]
 }
